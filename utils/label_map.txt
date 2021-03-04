@@ -1,3 +1,5 @@
+%% Example of labels how they are drop inlet mapped including custom category 'drop_inlet'%% 
+
 drop_inlet
 airplane
 apple
